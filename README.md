@@ -1,4 +1,4 @@
-# 🌾 MandiScope: Indian Agricultural Price Intelligence Platform
+# 🌾 MandiScope-Data-Pipeline-and-Analytics
 
 ##  What Is This Project?
 
